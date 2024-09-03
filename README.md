@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 I’m currently pursuing a degree in Computer Engineering<br>📱 Experienced in Full Stack Development<br>🔎 Exploring Could Computing<br>💻 Curious about Artificial Intelligence applications<br>🎖 Love to Solve DSA problems 
+👨‍🎓 I’m currently pursuing a degree in Computer Engineering<br>📱 Experienced in Full Stack Development<br>🔎 Exploring Cloud Computing<br>💻 Curious about Artificial Intelligence applications<br>🎖 Love to solve DSA problems 
 
 
 ## 🌐 Socials:
