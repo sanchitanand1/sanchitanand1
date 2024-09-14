@@ -1,11 +1,11 @@
 # 💫 About Me:
-👨‍🎓 I’m currently pursuing a degree in Computer Engineering<br>📱 Experienced in Full Stack Development<br>🔎 Exploring Cloud Computing<br>💻 Curious about Artificial Intelligence applications<br>🎖 Love to solve DSA problems 
+👨‍🎓 I’m currently pursuing a degree in Computer Engineering<br>📱 Experienced in Full Stack Development<br>🔎 Exploring Cloud Computing<br>💻 Curious about Artificial Intelligence Applications<br>🎖 Love to solve DSA problems 
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanchhit26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchit-anand-227a07241/) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/sanchitanand/)
 
-Reach me on : anandsanchit198@gmail.com
+Reach me at : anandsanchit198@gmail.com
 
 
 # 💻 Tech Stack:
